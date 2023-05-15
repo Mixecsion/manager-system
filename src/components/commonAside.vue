@@ -14,7 +14,7 @@
     <h3>充电系统管理中心</h3>
     <el-menu-item @click="navigation('/')" index="/">
       <i class="el-icon-odometer"></i>
-      <span slot="title">充电桩管理</span>
+      <span slot="title">充电预约</span>
     </el-menu-item>
     <el-menu-item @click="navigation('/queue')" index="/queue">
       <i class="el-icon-postcard"></i>
